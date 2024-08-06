@@ -1,0 +1,7 @@
+{
+  "ServerIp": "127.0.0.1",
+  "ServerPort": 9000,
+  "ClientIp": "127.0.0.1",
+  "ClientPort": 9001
+}
+
